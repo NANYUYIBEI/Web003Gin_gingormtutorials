@@ -1,28 +1,11 @@
 # Web 003 Gin-01 INKKAPLUM SH
 
-## 说明
-
-本教程中全部文字版教程和代码为 B 站: [InkkaPlum 频道](https://space.bilibili.com/290859233) 和知乎: [Inkka Plum](https://www.zhihu.com/people/instead-opt)的相关教程所用, 仅供学习。
-
-不得二次用于任何机构/个人再次录制 Go / Gin / Gorm / Redis / MySQL / Vue 或其它任何语言, 框架, 架构, 工具等等教程中。
-
-此外, 下文有任何问题或者需要改进的点, 请联系 UP 主。
-
 ## 前文
 
 而桌面背景和 Code 背景有变化, Code 背景是 Chinozo 的ベビーデーズ, 而桌面背景是 Harumakigohan 曲绘风格的 PJSK Jump More Jump 内容。
 
 讲解方法和上一次的 Fyne 内容没有什么变化。
 
-## Up 的话(前言)
-
-这是一个比较综合的 Go+Gin+Gorm+Redis+MySQL 教程, Up 顾及到了很多基本概念, 因此没有学习过 Go 语言、没有任何 Web 后端开发经验的朋友亦可以学习此内容, 但是之后依然需要花一定的时间学习 Go 基础, 因此建议观看完成之后通过[本频道(哔哩哔哩(Bilibili): InkkaPlum 频道)](https://space.bilibili.com/290859233)的 Go 基础视频([两期 Fyne 内容](https://www.bilibili.com/video/BV1u142187Ps))
-
-具体链接:
-
-<https://www.bilibili.com/video/BV1u142187Ps>
-
-<https://www.bilibili.com/video/BV1kz421i7iB>
 
 强化 Go 语言知识点, 当然不妨将这个视频作为你的你一个 Go 项目。
 
@@ -32,9 +15,7 @@
 
 同时, 所有课件和代码都在 GitHub 上开源地分享, 如果感到有帮助, 请给一个 Star, 并且别忘了关注 Up 的 Github。
 
-## 再次注意
-
-本教程中全部文字版教程和代码为 B 站: [InkkaPlum 频道](https://space.bilibili.com/290859233) 和知乎: [Inkka Plum](https://www.zhihu.com/people/instead-opt)的相关教程所用, 仅供学习。
+## 注意
 
 不得二次用于任何机构/个人再次录制 Go / Gin / Gorm / Redis / MySQL / Vue 或其它任何语言, 框架, 架构, 工具等等教程中。
 
