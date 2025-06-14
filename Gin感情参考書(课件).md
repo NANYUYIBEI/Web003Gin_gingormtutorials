@@ -2755,40 +2755,10 @@ redis:
 
 ## 内容结尾提示
 
-本教程中全部文字版教程和代码为 B 站: [InkkaPlum 频道](https://space.bilibili.com/290859233) 和知乎: [Inkka Plum](https://www.zhihu.com/people/instead-opt)的相关教程所用, 仅供学习。
-
 不得二次用于任何机构/个人再次录制 Go / Gin / Gorm / Redis / MySQL / Vue 或其它任何语言, 框架, 架构, 工具等等教程中。
 
 ## 结语
 
-这是一个比较综合的 Go+Gin+Gorm+Redis+MySQL 教程, Up 顾及到了很多基本概念, 因此没有学习过 Go 语言的朋友亦可以学习此内容, 但是之后可能需要花一定的时间学习 Go 基础, 请观看 Up(B 站 InkkaPlum 频道)的前两期 Go 视频。
+这是一个比较综合的 Go+Gin+Gorm+Redis+MySQL 教程, 因此没有学习过 Go 语言的朋友亦可以学习此内容, 但是之后可能需要花一定的时间学习 Go 基础。
 
-<https://www.bilibili.com/video/BV1u142187Ps>
 
-<https://www.bilibili.com/video/BV1kz421i7iB>
-
-此外, 请关注 Up 的 B 站频道和知乎, 并且别忘了一键三连, 当然如果愿意, 欢迎给 Up 充电支持, 您的支持是 Up 前进的动力, 将会鼓励 Up 给各位带来更好的视频。
-
-同时, 所有课件和代码都在 GitHub 上分享, 如果感到有帮助, 请给一个 Star 并关注 Up 的 Github。
-
-扩充内容: 之后还会有一个微服务教程, 敬请期待!
-
-Up B 站 InkkaPlum 频道
-
-<https://space.bilibili.com/290859233>
-
-Up 知乎
-
-<https://www.zhihu.com/people/instead-opt>
-
-Up 掘金
-
-<https://juejin.cn/user/3529872175284560>
-
-Up GitHub
-
-<https://github.com/Slumhee>
-
-以上 祝学习成功!
-
-Inkka Plum
