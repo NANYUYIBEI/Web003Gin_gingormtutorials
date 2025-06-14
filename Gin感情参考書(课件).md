@@ -2,10 +2,6 @@
 
 ## 前文
 
-而桌面背景和 Code 背景有变化, Code 背景是 Chinozo 的ベビーデーズ, 而桌面背景是 Harumakigohan 曲绘风格的 PJSK Jump More Jump 内容。
-
-讲解方法和上一次的 Fyne 内容没有什么变化。
-
 
 强化 Go 语言知识点, 当然不妨将这个视频作为你的你一个 Go 项目。
 
